@@ -22,7 +22,7 @@ Right now I work as a freelance full-stack developer.
   <img alt="Git" src="https://img.shields.io/badge/-Git-0D1117?logo=git&logoColor=F05032" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=white" />
   <img alt="VScode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2" />
-  <img  src"	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
 </p>
 
 ### Where to find me  
