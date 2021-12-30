@@ -26,7 +26,7 @@ Right now I work as a freelance full-stack developer.
 
 <p>
   <a href="https://www.linkedin.com/in/cristian-cabrera-304500183/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
   </a>
   <a href="https://www.instagram.com/cristiancabreraa/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
