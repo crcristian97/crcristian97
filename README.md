@@ -9,7 +9,7 @@ Right now I work as a freelance full-stack developer.
 ### Things I code with  
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="300"/>
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-0D1117?logo=react&logoColor=61DAFB" />
   <img alt='Angular' src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
