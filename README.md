@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img height="300" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625944843913.png" alt="Cristian Cabrera" />
 
 
 <div align="center">
@@ -7,6 +6,7 @@
        alt="snake" /></a>
 </div>
 
+<img height="300" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625944843913.png" alt="Cristian Cabrera" />
 
 # Hi 👋, I'm Cristian
 
