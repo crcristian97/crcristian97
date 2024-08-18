@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 <img height="300" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625944843913.png" alt="Cristian Cabrera" />
