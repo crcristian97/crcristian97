@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hola 👋
 
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake">
-  </a>
-</div>
 
 <img height="300" align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625944843913.png" alt="Cristian Cabrera" />
 
-# Hi 👋, I'm Cristian
+#  👋, Soy Cristian
 
-I'm a Computer engineering student and web developer from __Argentina__.  I love read book and play basquetbol 👨‍💻🤾‍♂️.  
-Right now I work as a freelance full-stack developer.
+👋 ¡Hola! Soy Cristian, un desarrollador apasionado por la tecnologica, enfocado en ayudar a crecer a la argentina divulgando informacion tecnologica y creando contenido de programacion para que cualquier persona pueda estudiar. Me encanta resolver problemas complejos y contribuir a la comunidad open-source.
 
 ### Things I code with  
 
@@ -32,7 +25,7 @@ Right now I work as a freelance full-stack developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/> 
 </p>
 
-### Where to find me  
+### Donde encontarme  
 
 <p>
   <a href="https://www.linkedin.com/in/cristian-cabrera-304500183/" target="_blank">
